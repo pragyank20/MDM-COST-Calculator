@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MDM Calculator</string>
+    <string name="Noofst">Enter Number Of Students</string>
+    <string name="noofdays">Enter Number of days</string>
+    <string name="heightin">Enter Your Height (in Inches)</string>
+    <string name="btncalc">Calculate </string>
+</resources>
